@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form-header {
+    text-align: center;
+    color: orange;
+    margin-top: 30px;
+    background-color: white;
+    padding: 40px;
+    width: 40%;
+    margin-left: 292px;
+    font-size: 40px;
+}
+
+body {
+    background-color: black;
+    font-style: Arial, Helvetica, sans-serif;
+}
