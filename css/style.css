@@ -20,3 +20,31 @@ body {
     background-color: black;
     font-style: Arial, Helvetica, sans-serif;
 }
+
+.form-container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-block: 15px;
+    gap: 0.5rem;
+    background-color: rgb(141, 133, 133);
+    padding: 20px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submit-button {
+    padding: 10px;
+    font-size: 16px;
+    color: orange;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.input-style {
+    padding: 5px;
+    border: 4px solid black;
+}
